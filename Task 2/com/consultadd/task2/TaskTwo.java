@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.consultadd.task1n2;
+package com.consultadd.task2;
 
 import java.util.Scanner;
 
@@ -19,7 +19,6 @@ public class TaskTwo {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
 		TaskTwo tTwo = new TaskTwo();
 		
 		// Uncomment the question to be executed!
@@ -50,9 +49,8 @@ public class TaskTwo {
 		
 		// Q9
 		//tTwo.charCheck();
-		
 	}
-
+	
 	// Q1
 	public void printIfDivisible() {
 		
@@ -251,6 +249,5 @@ public class TaskTwo {
 			System.out.println("FOUND");
 		} else System.out.println("NOT FOUND");
 	}
+
 }
-
-
